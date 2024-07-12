@@ -1,4 +1,4 @@
-Live preview of the site: https://a2z.onrender.com/
+
 
 I used render.com for hosting the sites, and mongodb atlas for database.
 
